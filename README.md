@@ -1,10 +1,10 @@
 👋 Hi, I’m @SandeshBanakar
 
-⚙️ I'm a Mechanical Engineer by qualification. I do love coding because of its power, use, and scalability. I am a beginner to coding.
+⚙️ I'm a Mechanical Engineer by qualification. I love coding because of its power, use, and scalability. I am a noob too!
 
-👀 I’m interested in Full Stack Web Development with an obtuse angle inclination towards front-end.
+👀 I’m interested in Full Stack Web Development with an acute angle inclination towards front-end.
 
-🌱 I’m currently learning languages like:
+🌱 I’m currently learning:
 - HTML5
 - CSS3
 - Bootstrap 5
@@ -14,10 +14,11 @@
 - SQL
 - A pinch of Python
 
-Softwares I'm currently practicing coding on:
+Softwares I'm currently practicing coding are:
 - Visual Studio Code
 - Netbeans IDE
 - Eclipse IDE
+- Github Copilot
 
 🏎️ I’m looking to collaborate on any simple side-project that helps me learn as a beginner. Project categories may include: Design of smart mechanical components, smart cars, electric vehicle sensor design and data analytics, agriculture-based smart equipments, and intuitive web applications.
  
